@@ -1,9 +1,8 @@
 # Aria2c+AriaNg
 
-> It it recommended to find other platform than Heroku to deploy this as they are actively prevent this from deploying there.
-> You can find many free platforms here: https://free-for.dev/
+Click this button to...
 
-## Deploying On Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ### Requirement
 
